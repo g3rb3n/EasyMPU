@@ -1,4 +1,4 @@
-#Synopsis
+# Synopsis
 A quick and dirty wrapper around the MPU6050 library.
 
 # Example
